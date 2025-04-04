@@ -5,7 +5,7 @@ Here can you test the game itself:   https://mychess-web-app.netlify.app/
 
 ## __How to Play__
 
-The game is played on a square board with 64 squares, arranged in an 8x8 grid. Each player begins with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. The goal of the game is to checkmate your opponent's king, which means putting it in a position where it is under attack and cannot escape capture.
+The game is played on a square board with 64 squares, arranged in an 8x8 grid. Each player begins with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. The goal of the game is to checkmate your opponent's king, which means putting it   in a position where it is under attack and cannot escape capture.
 
 Each player takes turns moving one piece per turn. The player with the white pieces moves first. Pieces move in different ways: the king can move one square in any direction, the queen can move any number of squares diagonally, horizontally, or vertically, the rook can move any number of squares horizontally or vertically, the bishop can move any number of squares diagonally, the knight moves in an L-shape, and the pawn can move one or two squares forward on its first move and one square forward on subsequent moves. Pawns capture diagonally.
 
